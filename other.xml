@@ -1,0 +1,33 @@
+<application>
+  <component name="LuaApplicationSettings">
+    <option name="INTERPRETERS">
+      <list>
+        <LuaInterpreter>
+          <option name="version" value="2.1.0-beta3" />
+          <option name="isDefault" value="true" />
+          <option name="name" value="LuaJit" />
+          <option name="path" value="D:\Develop\ide\openresty\openresty-1.13.6.2-win64\luajit.exe" />
+        </LuaInterpreter>
+      </list>
+    </option>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.1" last-modified="1522335974000" />
+    </local-interpreter>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="D:\Program Files\Python\Python27\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+</application>

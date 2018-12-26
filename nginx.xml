@@ -1,0 +1,14 @@
+<application>
+  <component name="nginxServers">
+    <NginxServerDescriptor>
+      <option name="configPath" value="./conf/nginx.conf" />
+      <option name="errorLogPath" value="./logs/error.log" />
+      <option name="executablePath" value="D:/Develop/ide/openresty/openresty-1.13.6.2-win64/nginx.exe" />
+      <option name="globals" value="" />
+      <option name="httpLogPath" value="./logs/access.log" />
+      <option name="id" value="nginx.descriptor.1542876085937" />
+      <option name="name" value="nginx/Windows [1.13.6.2]" />
+      <option name="pidPath" value="./logs/nginx.pid" />
+    </NginxServerDescriptor>
+  </component>
+</application>
