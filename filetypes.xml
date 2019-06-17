@@ -5,6 +5,7 @@
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
