@@ -6,6 +6,8 @@
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <removed_mapping ext="service" approved="true" type="Service unit configuration for systemd" />
+      <removed_mapping ext="service" approved="true" type="Service unit configuration for systemd" />
     </extensionMap>
   </component>
 </application>
