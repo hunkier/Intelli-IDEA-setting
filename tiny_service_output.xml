@@ -1,0 +1,5 @@
+<application>
+  <component name="org.tinygroup.studio.service.component.PackagePrefixComponent">
+    <option name="packagePrefix" value="" />
+  </component>
+</application>
