@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layui-elem-field" />
       <item value="div" />
       <item value="form" />
       <item value="fieldset" />
@@ -9,6 +10,7 @@
       <map>
         <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="1" />
+        <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
