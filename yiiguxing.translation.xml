@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SELECT SUM(CASE WHEN cds.online_status=0 OR cds.online_status IS NULL THEN 1 ELSE 0 END) 离线 ,SUM(CASE WHEN cds.online_status=1 THEN 1 ELSE 0 END ) 在线 ,SUM(CASE WHEN cds.online_status=2 THEN 1 ELSE 0 END) 故障 , (SELECT COUNT(*) FROM `csg_led_core`.core_device_led_ctrller rt WHERE 1=1 ) 总数 FROM `csg_led_core`.core_device_led_ctrller rt LEFT JOIN `csg_led_core`.`core_device_led_ctrller_state` cds ON cds.device_id = rt.id WHERE cds.update_time &gt; DATE_FORMAT(DATE_SUB(NOW(),INTERVAL 1 DAY),'%Y-%m-%d %T')" />
       <item value="日常" />
       <item value="面试" />
       <item value="layui-elem-field" />
