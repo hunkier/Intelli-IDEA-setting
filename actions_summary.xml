@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Copy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582025943962" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ProductivityGuide">
           <value>
             <ActionSummary>
@@ -13,7 +21,15 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581167508817" />
+              <option name="last" value="1582025730705" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582025730704" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -21,8 +37,8 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581167505375" />
-              <option name="times" value="1" />
+              <option name="last" value="1581470551118" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
