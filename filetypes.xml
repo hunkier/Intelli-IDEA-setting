@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
