@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
-      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
+      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
       <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping pattern="mycat1" type="PLAIN_TEXT" />
@@ -12,7 +12,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="service" approved="true" type="service" />
+      <removed_mapping ext="service" approved="true" type="Service unit configuration for systemd" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="service" approved="true" type="Service unit configuration for systemd" />

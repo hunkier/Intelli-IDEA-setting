@@ -1,0 +1,13 @@
+<application>
+  <component name="EdasStore">
+    <option name="serviceConnectMap">
+      <map>
+        <entry key="pf-platform">
+          <value>
+            <EdasServiceConnectModel />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
