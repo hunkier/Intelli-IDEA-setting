@@ -1,0 +1,11 @@
+<templateSet group="hunkier">
+  <template name="m" value="**&#10;* @Description: $description$&#10;* @Param: $params$&#10;* @return: $returns$&#10;* @Author: hunkier&#10;* @Date: $date$&#10;*/" description="左边这个就是模板的快捷键  快捷键 + tab 输出模板" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
