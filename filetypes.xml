@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
