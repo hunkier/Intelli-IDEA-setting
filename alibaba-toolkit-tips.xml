@@ -1,0 +1,14 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/learn/kotlin/demo" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/learn/litemall" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/learn/mall/api" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/mtech/Mycat-Server-Mycat-server-1.6.7.4-release" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/mtech/cloud" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/mtech/mt_ies" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/mtech/pf-platform" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/mtech/pm1.0" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Develop/workspace/mtech/wisdom_led" firstStartUp="false" />
+  </component>
+</application>
