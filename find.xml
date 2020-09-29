@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../connect/iot_event/src/main/java/com/mtech/em/iot_event/iot/evnet/service/bussniess/StaticDayService.java [iot_event]'" />
+    <option name="defaultScopeName" value="File '.../connect/iot_event/src/main/java/com/mtech/em/iot_event/iot/evnet/service/bussniess/StaticDayService.java [iot_event]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../connect/iot_event/src/main/java/com/mtech/em/iot_event/iot/evnet/service/bussniess/StaticDayService.java [iot_event]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
