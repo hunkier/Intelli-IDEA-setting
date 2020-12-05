@@ -21,12 +21,7 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607174528555" />
   </component>
 </application>
