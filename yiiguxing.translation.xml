@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="log" />
       <item value="Resource Http Request Handler" />
       <item value="select By Example COUNT" />
       <item value="double" />
@@ -17,12 +18,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607174528555" />
+    <option name="lastTrimTime" value="1613637405292" />
   </component>
 </application>
