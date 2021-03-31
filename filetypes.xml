@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
