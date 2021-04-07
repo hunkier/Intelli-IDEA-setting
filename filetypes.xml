@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
@@ -13,7 +15,6 @@
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="klib" type="ARCHIVE" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="service" approved="true" type="service" />
