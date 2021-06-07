@@ -18,6 +18,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="service" approved="true" type="service" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
