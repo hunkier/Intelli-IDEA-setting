@@ -1,0 +1,7 @@
+<application>
+  <component name="RulePersistentConfig">
+    <option name="regExpArray">
+      <JsonArray />
+    </option>
+  </component>
+</application>
