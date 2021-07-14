@@ -1,0 +1,13 @@
+<application>
+  <component name="ChartsConfig">
+    <option name="settings">
+      <map>
+        <entry key="default">
+          <value>
+            <ChartConfig />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
