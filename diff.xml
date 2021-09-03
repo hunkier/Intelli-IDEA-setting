@@ -1,4 +1,13 @@
 <application>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="SPLITTER_PROPORTION" value="0.66579634" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
