@@ -8,7 +8,7 @@
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
