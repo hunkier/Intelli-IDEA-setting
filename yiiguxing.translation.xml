@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="732" />
+    <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="put" />
       <item value="log" />
       <item value="Resource Http Request Handler" />
       <item value="select By Example COUNT" />
@@ -17,13 +21,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="8" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613637405292" />
+    <option name="lastTrimTime" value="1633864460843" />
   </component>
 </application>
