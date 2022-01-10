@@ -6,11 +6,11 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="mycat1" type="PLAIN_TEXT" />
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
+      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping ext="r1387" type="PLAIN_TEXT" />
       <mapping ext="r1388" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
@@ -34,6 +34,10 @@
       <removed_mapping ext="service" approved="true" type="service" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
+      <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
     </extensionMap>
   </component>
 </application>
