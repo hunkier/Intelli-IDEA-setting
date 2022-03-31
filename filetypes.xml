@@ -21,7 +21,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
@@ -29,10 +28,6 @@
       <removed_mapping ext="service" approved="true" type="service" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
-      <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
-      <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
     </extensionMap>
   </component>
 </application>
