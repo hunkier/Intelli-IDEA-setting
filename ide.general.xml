@@ -9,4 +9,12 @@
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+        <entry key="PowerSaveMode" value="true" />
+      </map>
+    </option>
+  </component>
 </application>

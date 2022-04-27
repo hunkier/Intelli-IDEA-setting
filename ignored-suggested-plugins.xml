@@ -5,6 +5,14 @@
         <option value="com.haulmont.jpab" />
         <option value="org.dynamodb4idea" />
         <option value="com.intellij.bigdatatools" />
+        <option value="com.intellij.beanValidation" />
+        <option value="com.intellij.thymeleaf" />
+        <option value="com.intellij.spring.security" />
+        <option value="com.intellij.spring.mvc" />
+        <option value="com.intellij.spring.websocket" />
+        <option value="com.intellij.javaee.web" />
+        <option value="com.intellij.javaee.jpa" />
+        <option value="com.intellij.spring.data" />
       </list>
     </option>
   </component>
