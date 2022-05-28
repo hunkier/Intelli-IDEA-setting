@@ -20,7 +20,7 @@
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.36.0.3" />
     </driver>
   </component>
 </application>
