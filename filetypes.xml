@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern="bootJarMainClassName" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="mycat1" type="PLAIN_TEXT" />
@@ -13,7 +16,6 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
@@ -25,9 +27,7 @@
       <removed_mapping ext="service" approved="true" type="service" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
