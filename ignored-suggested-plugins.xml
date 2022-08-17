@@ -13,6 +13,7 @@
         <option value="com.intellij.javaee.web" />
         <option value="com.intellij.javaee.jpa" />
         <option value="com.intellij.spring.data" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
