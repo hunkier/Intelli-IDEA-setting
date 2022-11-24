@@ -4,7 +4,7 @@
     <property name="created">2022-08-23T14:27:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-23T14:57:02</property>
+    <property name="modified">2022-11-24T11:12:10</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -23,7 +23,7 @@
       <value>
         <option name="FOREGROUND" value="6dcc" />
         <option name="EFFECT_COLOR" value="6dcc" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -300,11 +300,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="264eff" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
