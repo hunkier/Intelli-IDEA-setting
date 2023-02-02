@@ -16,6 +16,9 @@
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.47" />
     </driver>
+    <driver id="tidb">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" channel="fixed" rolling="false" use="true" version="8.0.25" />
+    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
@@ -29,6 +32,12 @@
       <property name="enable_load_extension" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
+      </library>
+    </driver>
+    <driver id="java.sql.Driver" name="taos3 jdbc Driver" driver-class="com.taosdata.jdbc.TSDBDriver">
+      <url-template name="default" template="jdbc:[TAOS|TAOS-RS]://{host::localhost}?[:{port::6030}][/{database}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:param}&gt;]" />
+      <library>
+        <url>file://$USER_HOME$/Documents/tools/repository/com/taosdata/jdbc/taos-jdbcdriver/3.0.4/taos-jdbcdriver-3.0.4-dist.jar</url>
       </library>
     </driver>
   </component>
