@@ -1,4 +1,15 @@
 <application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="readTimeout" value="60000" />
+    <option name="connectionTimeout" value="60000" />
+    <option name="email" value="huangkuier@gmail.com" />
+    <option name="password" value="?&amp;&amp;q_5v$rb,w@P3" />
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="localhost" />
+    <option name="proxyPort" value="8838" />
+    <option name="apiKey" value="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" />
+  </component>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="accessToken" value="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" />
     <option name="urlType" value="OFFICIAL" />
