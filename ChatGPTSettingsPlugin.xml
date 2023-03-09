@@ -9,6 +9,13 @@
     <option name="proxyHostname" value="localhost" />
     <option name="proxyPort" value="8838" />
     <option name="apiKey" value="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" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="GPT-3.5-Turbo" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="Online ChatGPT" />
+      </map>
+    </option>
   </component>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="accessToken" value="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" />
