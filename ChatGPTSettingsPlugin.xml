@@ -8,7 +8,8 @@
     <option name="proxyType" value="HTTP" />
     <option name="proxyHostname" value="localhost" />
     <option name="proxyPort" value="8838" />
-    <option name="apiKey" value="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" />
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJodWFuZ2t1aWVyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwiaXNzIjoiaHR0cHM6Ly9hdXRoMC5vcGVuYWkuY29tLyIsInN1YiI6ImF1dGgwfDYzOTAwNzViZGFhMmMzNDAwZWI4OTM0MyIsImF1ZCI6WyJodHRwczovL2FwaS5vcGVuYWkuY29tL3YxIiwiaHR0cHM6Ly9vcGVuYWkub3BlbmFpLmF1dGgwYXBwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2Nzg5NTUxMDksImV4cCI6MTY4MDE2NDcwOSwiYXpwIjoiRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0QiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIn0.z-ToODm7Od12ioBtrbExxXa9h8T6BizZogL4vCdAO_71WAU2ESkhmsVY-V1cJZzrwIlwA6Ok71ArgMZHXpBnLIwhG-kZqDkxAzDxXywpHaV22n_6wRU2kdoRlgTIXUKPnjBGuKgZy4WHoy1FYZPKCeEbvqza8BPKxoLz-W-y0_Oh7ci8PgqaCME4xGrT6Z_WwJgKjE14oN2_dg28Ono81dn8FP0CAsSsZ44Z1NvgwI8W_ML48-AAEVB3-2LLlMG2mlpY97_zL5yeV_ed6Wna5go2B5KTwrV7Ki_iOutHdwaLKPb0dqYoudbsYYl0VodGmK_4f1pi0QTKO1gR_xoBtg" />
+    <option name="apiKey" value="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" />
     <option name="contentOrder">
       <map>
         <entry key="1" value="GPT-3.5-Turbo" />
