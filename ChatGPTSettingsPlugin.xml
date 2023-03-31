@@ -6,7 +6,7 @@
     <option name="proxyType" value="HTTP" />
     <option name="proxyHostname" value="localhost" />
     <option name="proxyPort" value="8839" />
-    <option name="apiKey" value="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" />
+    <option name="apiKey" value="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" />
     <option name="contentOrder">
       <map>
         <entry key="1" value="GPT-3.5-Turbo" />
