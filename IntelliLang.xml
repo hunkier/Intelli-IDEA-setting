@@ -1,5 +1,11 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="groovy">
+      <display-name>RegExp</display-name>
+      <single-file value="true" />
+      <place><![CDATA[groovyElement().annotationParam("groovy.lang.Newify", "pattern")]]></place>
+      <place><![CDATA[groovyLiteralExpression().regExpOperatorArgument()]]></place>
+    </injection>
     <injection language="http-url-reference" injector-id="java">
       <display-name>Android Volley (com.android.volley)</display-name>
       <single-file value="true" />
