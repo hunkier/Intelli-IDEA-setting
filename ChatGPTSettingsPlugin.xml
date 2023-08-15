@@ -30,8 +30,8 @@
         </ChatGPTContentState>
       </list>
     </contentStatesAll>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjkxMzM0NTg4LCJpYXQiOjE2OTAzNjc5NjcsImp0aSI6IjVkNTRlZmE0ODYwNzQ0Y2ZhMWRmYzk1Njc5ODc1OTdmIiwidXNlcl9pZCI6MjcxMzE0fQ.9jUshJBXdPpbEfvR11h7egNeCRWo5Jzi9EKH1eigf8I" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MjU0MzI4OCwiaWF0IjoxNjkxMzMzNjg4LCJqdGkiOiIzMjljNDMwOTVjNDI0MDJjYTRlMjNiODYzZjBmODViOCIsInVzZXJfaWQiOjI3MTMxNH0.pzOcNasFT34KMDurZt7GNysr9SFhaFJUchKKbApXrVY" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjkyMDYxNzY1LCJpYXQiOjE2OTEzMzM2ODgsImp0aSI6ImEzYTAzYzRkZDhhNjQyYzRiY2QyYWY2ZmVhNjIxZTg0IiwidXNlcl9pZCI6MjcxMzE0fQ.kOpscUgFGaiGeH2MXSuqtZnx9sr5cI6M5-jKxBFB11M" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MzI3MDQ2NSwiaWF0IjoxNjkyMDYwODY1LCJqdGkiOiJjOTlhM2RlMTMwYzM0YTA4OTFhNTk2NDM1ZmJjZDc1MyIsInVzZXJfaWQiOjI3MTMxNH0.8Y-RjWobjB8KMlW7pP_uZbj_G4Egw4C2Nu2GWbb-h7M" />
   </component>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="accessToken" value="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" />
