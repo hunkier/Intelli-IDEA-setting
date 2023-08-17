@@ -1,0 +1,8 @@
+<application>
+  <component name="DataGridAppearanceSettingsImpl" version="1">
+    <option name="use-custom-font" value="true" />
+    <option name="grid-font-family" value="JetBrains Mono" />
+    <option name="grid-font-size" value="14" />
+    <option name="grid-line-spacing" value="1.2" />
+  </component>
+</application>
