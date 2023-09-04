@@ -11,6 +11,7 @@
       <mapping pattern="mycat1" type="PLAIN_TEXT" />
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="r1388" type="PLAIN_TEXT" />
       <mapping ext="r1387" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
