@@ -6,7 +6,7 @@
     <option name="proxyType" value="HTTP" />
     <option name="proxyHostname" value="localhost" />
     <option name="proxyPort" value="8839" />
-    <option name="apiKey" value="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" />
+    <option name="apiKey" value="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" />
     <contentStatesAll>
       <list>
         <ChatGPTContentState>
@@ -30,8 +30,8 @@
         </ChatGPTContentState>
       </list>
     </contentStatesAll>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjkyMjU3Mjc0LCJpYXQiOjE2OTIyNTYzNzQsImp0aSI6IjY3NWYwNmU2ODRjYjQ2YmRhMjM2ZGJhODM5MTJmMjcyIiwidXNlcl9pZCI6MjcxMzE0fQ.zsN3z76psdufAwCqPmULCCplY4RiZDKbmc9hNiN_j3M" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MzQ2NTk3NCwiaWF0IjoxNjkyMjU2Mzc0LCJqdGkiOiI0MGMyZmUzZmRiYzQ0YWMzYTVkODVhYWE5YTQ1MTQ5YiIsInVzZXJfaWQiOjI3MTMxNH0.Fvl_2DZEeEWDONtYQ6XeBNFvbhS1I6tVH1rSv2zPLSs" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjk2NzU5NTU4LCJpYXQiOjE2OTY3NTg2NTgsImp0aSI6IjY0NmE1ZTI4NGQ1NDQxOWM4MzU3ZDRlOGExODFjNDJlIiwidXNlcl9pZCI6MjcxMzE0fQ.jkmoZYjwuj8HogoCHAGNVApggTw5vEvWmCjOXCbLgbA" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5Nzk2ODI1OCwiaWF0IjoxNjk2NzU4NjU4LCJqdGkiOiI4ODM5ZDczYTBkZDk0YjQxYWE5ZmUyZTNiMDY2OWI5NCIsInVzZXJfaWQiOjI3MTMxNH0.CkAIKs185zf3thNaJFZD7mSvurPeK0bqODqtoifwYqQ" />
   </component>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
     <option name="accessToken" value="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" />
