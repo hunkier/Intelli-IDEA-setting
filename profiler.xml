@@ -15,6 +15,7 @@
         <option name="sortMetrics">
           <map>
             <entry key="allocationSize" value="true" />
+            <entry key="executionTime" value="true" />
             <entry key="samplesCountMetric" value="true" />
           </map>
         </option>
