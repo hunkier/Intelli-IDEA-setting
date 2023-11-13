@@ -1,5 +1,6 @@
 <application>
   <component name="CosySettings">
+    <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -7,7 +8,7 @@
           <CloudModelParam>
             <option name="autoTrigger">
               <CloudModelAutoTrigger>
-                <option name="enable" value="true" />
+                <option name="enable" value="false" />
                 <option name="generateLength" value="level_1" />
                 <option name="modelLevel" value="large" />
               </CloudModelAutoTrigger>
@@ -23,7 +24,7 @@
         </option>
         <option name="local">
           <LocalModelParam>
-            <option name="enable" value="false" />
+            <option name="enable" value="true" />
             <option name="inferenceMode" value="auto" />
             <option name="maxCandidateNum" value="3" />
           </LocalModelParam>
