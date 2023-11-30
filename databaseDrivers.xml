@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="clickhouse">
-      <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
+      <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.4.2" />
     </driver>
     <driver id="h2.unified">
       <artifact id="H2" name="H2" use="true" version="1.4.200" />
