@@ -6,11 +6,11 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="mycat1" type="PLAIN_TEXT" />
       <mapping pattern="gofastdfs" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping pattern="appint" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="r1388" type="PLAIN_TEXT" />
       <mapping ext="r1387" type="PLAIN_TEXT" />
@@ -22,6 +22,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
