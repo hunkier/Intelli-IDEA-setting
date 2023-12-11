@@ -15,6 +15,7 @@
         <option value="com.intellij.spring.data" />
         <option value="aws.toolkit" />
         <option value="org.jetbrains.plugins.vue" />
+        <option value="com.intellij.grpc" />
       </list>
     </option>
   </component>
