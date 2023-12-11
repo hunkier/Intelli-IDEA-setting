@@ -1,0 +1,7 @@
+<application>
+  <component name="com.fobgochod.setting.ZkConfigState">
+    <option name="name" value="localhost" />
+    <option name="path" value="" />
+    <option name="username" value="" />
+  </component>
+</application>
