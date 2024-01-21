@@ -1,0 +1,12 @@
+<application>
+  <component name="MavenCatalogManager">
+    <option name="local">
+      <list>
+        <Local>
+          <option name="name" value="User" />
+          <option name="path" value="$USER_HOME$/Documents/tools/repository" />
+        </Local>
+      </list>
+    </option>
+  </component>
+</application>
