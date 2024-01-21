@@ -49,5 +49,6 @@
         </entry>
       </map>
     </option>
+    <option name="showInlinePrevTips" value="false" />
   </component>
 </application>
