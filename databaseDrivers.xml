@@ -11,7 +11,7 @@
     </driver>
     <driver id="mysql.8">
       <artifact />
-      <library native="true">
+      <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL ConnectorJ/8.0.25/mysql-connector-java-8.0.25.jar</url>
       </library>
     </driver>
