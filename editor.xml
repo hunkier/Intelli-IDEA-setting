@@ -2,6 +2,9 @@
   <component name="CodeInsightSettings">
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
