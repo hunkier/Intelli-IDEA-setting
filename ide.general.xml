@@ -11,7 +11,6 @@
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
